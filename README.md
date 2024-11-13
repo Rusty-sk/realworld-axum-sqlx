@@ -77,7 +77,7 @@ Comments on the module definitions will guide you from there.
 ### Clone this Repository
 
 ```shell
-$ git clone https://github.com/launchbadge/realworld-axum-sqlx
+$ git clone https://github.com/Rusty-sk/realworld-axum-sqlx.git
 $ cd realworld-axum-sqlx
 ```
 
